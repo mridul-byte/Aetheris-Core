@@ -14,16 +14,14 @@ Aetheris Core bridges **Kali Linux**, **BlackArch**, and **Android SDK Tools** i
 bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com
+git clone http://mridul-byte.github.io/Aetheris-Core/AetherisCore.py
 cd AetherisCore
 python AetherisCore.py
 ```
 ---
-for pc ⬇️
+for PC ⬇️
 ```
 sudo apt update && sudo apt install python3 git -y
-git clone https://github.com
+git clone http://mridul-byte.github.io/Aetheris-Core/AetherisCore.py
 cd AetherisCore
 python3 AetherisCore.py
-
-
