@@ -19,7 +19,7 @@ cd AetherisCore
 python AetherisCore.py
 ```
 ---
-for PC ⬇️
+### for PC ⬇️
 ```
 sudo apt update && sudo apt install python3 git -y
 git clone http://mridul-byte.github.io/Aetheris-Core/AetherisCore.py
