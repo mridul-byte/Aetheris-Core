@@ -15,7 +15,7 @@ bash
 pkg update && pkg upgrade -y
 pkg install python git -y
 git clone https://github.com/mridul-byte/Aetheris-Core.git
-cd AetherisCore
+cd Aetheris-Core
 python AetherisCore.py
 ```
 ---
@@ -23,5 +23,5 @@ python AetherisCore.py
 ```
 sudo apt update && sudo apt install python3 git -y
 git clone https://github.com/mridul-byte/Aetheris-Core.git
-cd AetherisCore
+cd Aetheris-Core
 python3 AetherisCore.py
